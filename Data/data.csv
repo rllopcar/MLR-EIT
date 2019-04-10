@@ -1,0 +1,21 @@
+long_common_name,component,system
+Leukocytes [volume] in Blood,Leukocytes,Blood
+Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Aspartate aminotransferase,Serum Plasma
+Fasting glucose [Mass or Moles/volume] in Serum or Plasma,Glucose^post CFst,Serum Plasma
+Lymphocytes/100 leukocytes in Blood,Lymphocytes/100 leukocytes,Blood
+Bilirubin.total [Mass/volume] in Synovial fluid,Bilirubin,Synovial fluid
+Glucose [Moles/volume] in Pleural fluid,Glucose,Pleural fluid
+Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO,Glucose^3H post 100 g glucose PO,Serum Plasma
+Hepatitis B virus DNA [volume] (viral load) in Serum by Probe with signal amplification,Hepatitis B virus DNA,Serum
+Bilirubin.total [Mass/volume] in Serum or Plasma,Bilirubin,Serum Plasma
+Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,Bilirubin.non-glucuronidated,Serum Plasma
+Glucose [Moles/volume] in Urine,Glucose,Urine
+Monocytes [volume] in Blood,Monocytes,Blood
+Protein C [Mass/volume] in Plasma,Protein C,Plasma
+Glucose [Mass/volume] in Serum Plasma or Blood,Glucose,Serum Plasma Blood
+Bilirubin.total [Presence] in Unspecified specimen,Bilirubin,Null
+Glucose [Moles/volume] in Serum or Plasma,Glucose,Serum Plasma
+Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,Alanine aminotransferase,Serum Plasma
+Lymphocytes [volume] in Blood,Lymphocytes,Blood
+Tyrosine aminotransferase [Mass/volume] in Plasma,Tyrosine aminotransferase,Plasma
+Calcium bilirubinate/Total in Stone,Calcium bilirubinate/Total,Calculus|
