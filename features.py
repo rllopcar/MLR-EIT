@@ -10,7 +10,7 @@ PREFIX = "./Data/"
 d_aux_1 = []
 d_aux_2 = []
 data_clean = []
-features = []
+
 # Load data.csv
 data_aux = pd.read_csv(PREFIX+'data.csv')
 data = np.array(data_aux)
@@ -33,6 +33,7 @@ q_2 = "bilirubin in plasma"
 q_3 = "White blood cells count"
 
 def feature_extractor(query):
+    features = []
     q_token = list(map(str.lower,tokenize(query)))
     q_length = len(q_token)
     n = 0
@@ -58,8 +59,22 @@ def feature_extractor(query):
         f_3 = 0
     return features
     
-feature_extractor(q_1)
-feature_extractor(q_2)
-feature_extractor(q_3)
+features_glucose = feature_extractor(q_1)
+features_bilirubin = feature_extractor(q_2)
+features_white = feature_extractor(q_3)
 
 
+with open('features_glucose.csv', 'w') as csvFile:
+    writer = csv.writer(csvFile)
+    writer.writerows(features_glucose)
+csvFile.close()
+
+with open('features_bilirubin.csv', 'w') as csvFile:
+    writer = csv.writer(csvFile)
+    writer.writerows(features_bilirubin)
+csvFile.close()
+
+with open('features_white.csv', 'w') as csvFile:
+    writer = csv.writer(csvFile)
+    writer.writerows(features_white)
+csvFile.close()
