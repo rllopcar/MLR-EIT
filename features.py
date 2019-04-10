@@ -48,6 +48,7 @@ def feature_extractor(query):
             # Second feature --> Yes/No depending if a word of the query is in the attribute component
             if token in doc[1]:
                 f_2=1
+            # Third feature --> Yes/No depending if a word of the query is in the attribute system
             if token in doc[2]:
                 f_3_=1
         f_1_aux = n/q_length
