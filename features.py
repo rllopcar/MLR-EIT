@@ -51,7 +51,7 @@ def feature_extractor(query):
                 f_2=1
             # Third feature --> Yes/No depending if a word of the query is in the attribute system
             if token in doc[2]:
-                f_3_=1
+                f_3=1
         f_1_aux = n/q_length
         features.append([f_1_aux,f_2,f_3])
         n = 0
