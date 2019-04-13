@@ -1,0 +1,61 @@
+perc_in_name;attribute_component;attribute_system;Relevance;long_common_name
+0.3333333333333333;0;0;0;Leukocytes [#/volume] in Blood
+0.6666666666666666;1;1;0;Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+0.6666666666666666;0;1;0;Fasting glucose [Mass or Moles/volume] in Serum or Plasma
+0.3333333333333333;0;0;0;Lymphocytes/100 leukocytes in Blood
+0.6666666666666666;1;0;0;Bilirubin.total [Mass/volume] in Synovial fluid
+0.3333333333333333;0;0;0;Glucose [Moles/volume] in Pleural fluid
+0.6666666666666666;0;1;0;Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO
+0.3333333333333333;0;0;0;Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification
+1.0;1;1;1;Bilirubin.total [Mass/volume] in Serum or Plasma
+1.0;1;1;1;Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma
+0.3333333333333333;0;1;0;Glucose [Moles/volume] in Urine
+0.3333333333333333;0;0;0;Monocytes [#/volume] in Blood
+0.6666666666666666;1;1;0;Protein C [Mass/volume] in Plasma
+0.6666666666666666;0;1;0;Glucose [Mass/volume] in Serum, Plasma or Blood
+0.6666666666666666;1;0;0;Bilirubin.total [Presence] in Unspecified specimen
+0.6666666666666666;0;1;0;Glucose [Moles/volume] in Serum or Plasma
+0.6666666666666666;1;1;0;Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+0.3333333333333333;0;0;0;Lymphocytes [#/volume] in Blood
+0.6666666666666666;1;1;0;Tyrosine aminotransferase [Mass/volume] in Plasma
+0.6666666666666666;1;0;0;Calcium bilirubinate/Total in Stone
+0.6666666666666666;0;1;0;Bilirubin.total [Mass/volume] in Serum or Plasma
+0.3333333333333333;1;0;0;Glucose [Moles/volume] in Urine
+0.6666666666666666;1;0;1;Glucose [Mass/volume] in Serum, Plasma or Blood
+0.6666666666666666;0;1;0;Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+0.3333333333333333;1;0;0;Calcium bilirubinate/Total in Stone
+0.6666666666666666;1;0;0;Glucose [Moles/volume] in Pleural fluid
+0.6666666666666666;1;0;0;Bilirubin.total [Mass/volume] in Synovial fluid
+0.3333333333333333;0;0;0;Glucose [Moles/volume] in Serum or Plasma
+0.3333333333333333;1;0;0;Leukocytes [#/volume] in Blood
+0.3333333333333333;1;0;0;Tyrosine aminotransferase [Mass/volume] in Plasma
+0.6666666666666666;1;1;0;Lymphocytes [#/volume] in Blood
+0.6666666666666666;0;1;0;Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO
+0.3333333333333333;1;0;0;Bilirubin.total [Presence] in Unspecified specimen
+1.0;1;1;0;Protein C [Mass/volume] in Plasma
+0.3333333333333333;1;0;0;Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification
+0.6666666666666666;1;0;0;Monocytes [#/volume] in Blood
+0.3333333333333333;1;0;0;Lymphocytes/100 leukocytes in Blood
+0.6666666666666666;0;1;0;Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma
+0.3333333333333333;1;0;0;Fasting glucose [Mass or Moles/volume] in Serum or Plasma
+0.3333333333333333;1;0;0;Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+0.25;0;1;1;Monocytes [#/volume] in Blood
+0.0;0;0;0;Bilirubin.total [Mass/volume] in Synovial fluid
+0.0;0;0;0;Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma
+0.25;0;1;0;Protein C [Mass/volume] in Plasma
+0.0;0;0;0;Fasting glucose [Mass or Moles/volume] in Serum or Plasma
+0.0;0;0;0;Glucose [Mass/volume] in Serum, Plasma or Blood
+0.0;0;0;0;Tyrosine aminotransferase [Mass/volume] in Plasma
+0.0;0;0;0;Bilirubin.total [Presence] in Unspecified specimen
+0.0;0;0;0;Glucose [Moles/volume] in Pleural fluid
+0.0;0;0;1;Lymphocytes [#/volume] in Blood
+0.0;0;0;0;Bilirubin.total [Mass/volume] in Serum or Plasma
+0.25;0;1;0;Glucose [Moles/volume] in Serum or Plasma
+0.0;0;0;0;Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma
+0.25;0;1;1;Lymphocytes/100 leukocytes in Blood
+0.0;0;0;0;Glucose [Moles/volume] in Urine
+0.0;0;0;0;Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification
+0.0;0;0;0;Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO
+0.25;0;1;1;Leukocytes [#/volume] in Blood
+0.0;0;0;0;Calcium bilirubinate/Total in Stone
+0.0;0;0;0;Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma
