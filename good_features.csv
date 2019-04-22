@@ -1,0 +1,21 @@
+perc_in_name;in_component;in_system;Relevance;long_common_name;query;component;system
+0.3333333333333333;0;0;0;Leukocytes [#/volume] in Blood;bilirubin in plasma;Leukocytes;Bld
+0.6666666666666666;0;1;1;Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma;bilirubin in plasma;Aspartate aminotransferase;Ser/Plas
+0.6666666666666666;0;1;1;Fasting glucose [Mass or Moles/volume] in Serum or Plasma;bilirubin in plasma;Glucose^post CFst;Ser/Plas
+0.3333333333333333;0;0;0;Lymphocytes/100 leukocytes in Blood;bilirubin in plasma;Lymphocytes/100 leukocytes;Bld
+0.6666666666666666;1;0;1;Bilirubin.total [Mass/volume] in Synovial fluid;bilirubin in plasma;Bilirubin;Synv fld
+0.3333333333333333;0;0;0;Glucose [Moles/volume] in Pleural fluid;bilirubin in plasma;Glucose;Plr fld
+0.6666666666666666;0;1;1;Glucose [Moles/volume] in Serum or Plasma --3 hours post 100 g glucose PO;bilirubin in plasma;Glucose^3H post 100 g glucose PO;Ser/Plas
+0.3333333333333333;0;0;0;Hepatitis B virus DNA [#/volume] (viral load) in Serum by Probe with signal amplification;bilirubin in plasma;Hepatitis B virus DNA;Ser
+1.0;1;1;1;Bilirubin.total [Mass/volume] in Serum or Plasma;bilirubin in plasma;Bilirubin;Ser/Plas
+1.0;1;1;1;Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma;bilirubin in plasma;Bilirubin.non-glucuronidated;Ser/Plas
+0.3333333333333333;0;0;0;Glucose [Moles/volume] in Urine;bilirubin in plasma;Glucose;Urine
+0.3333333333333333;0;0;0;Monocytes [#/volume] in Blood;bilirubin in plasma;Monocytes;Bld
+0.6666666666666666;0;1;1;Protein C [Mass/volume] in Plasma;bilirubin in plasma;Protein C;Plas
+0.6666666666666666;0;1;1;Glucose [Mass/volume] in Serum Plasma or Blood;bilirubin in plasma;Glucose;Ser/Plas/Bld
+0.6666666666666666;1;0;1;Bilirubin.total [Presence] in Unspecified specimen;bilirubin in plasma;Bilirubin;XXX
+0.6666666666666666;0;1;1;Glucose [Moles/volume] in Serum or Plasma;bilirubin in plasma;Glucose;Ser/Plas
+0.6666666666666666;0;1;1;Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma;bilirubin in plasma;Alanine aminotransferase;Ser/Plas
+0.3333333333333333;0;0;0;Lymphocytes [#/volume] in Blood;bilirubin in plasma;Lymphocytes;Bld
+0.6666666666666666;0;1;1;Tyrosine aminotransferase [Mass/volume] in Plasma;bilirubin in plasma;Tyrosine aminotransferase;Plas
+0.6666666666666666;1;0;1;Calcium bilirubinate/Total in Stone;bilirubin in plasma;Calcium bilirubinate/Total;Calculusz
